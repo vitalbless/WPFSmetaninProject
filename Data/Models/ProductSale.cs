@@ -12,6 +12,6 @@ namespace WPFSmetaninProject.Data.Models
         public DateTime SaleDate { get; set; }
         public int ProductId { get; set; }
         public int Quantity { get; set; }
-        public List<ClientService> ClientServices { get; set; }
+        public List<ClientService> ClientServices { get; set; } = new List<ClientService>();
     }
 }

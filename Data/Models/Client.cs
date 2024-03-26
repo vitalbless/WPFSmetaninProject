@@ -15,10 +15,10 @@ namespace WPFSmetaninProject.Data.Models
         public DateTime BirthDay { get; set; }
         public DateTime RegistrationDate { get; set; }
         public string Email { get; set; }
-        public int Phone { get; set; }
+        public string Phone { get; set; }
         public int GenderId { get; set; }
-        public int PhotoPath { get; set; }
-        public List<TagOfClient> TagOfClients { get; set; }
-        public List<ClientService> ClientServices { get; set; }
+        public string PhotoPath { get; set; }
+        public List<TagOfClient> TagOfClients { get; set; } = new List<TagOfClient>();
+        public List<ClientService> ClientServices { get; set; } = new List<ClientService>();
     }
 }

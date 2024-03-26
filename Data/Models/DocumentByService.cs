@@ -10,6 +10,6 @@ namespace WPFSmetaninProject.Data.Models
     {
         public int Id { get; set; }
         public int ClientServiceId { get; set; }
-        public int DocumentPath { get; set; }
+        public string DocumentPath { get; set; }
     }
 }

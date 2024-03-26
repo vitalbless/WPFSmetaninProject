@@ -10,6 +10,6 @@ namespace WPFSmetaninProject.Data.Models
     {
         public int Id { get; set; }
         public int ProductId{ get; set; }
-        public int PhotoPath { get; set; }
+        public string PhotoPath { get; set; }
     }
 }

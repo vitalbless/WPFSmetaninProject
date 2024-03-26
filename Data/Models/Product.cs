@@ -12,11 +12,11 @@ namespace WPFSmetaninProject.Data.Models
         public string Title { get; set; }
         public string Cost { get; set; }
         public string Description { get; set; }
-        public int MainImagePath { get; set; }
+        public string MainImagePath { get; set; }
         public bool IsActive { get; set; }
         public int ManufacturerId { get; set; }
-        public List<ProductSale> ProductSales { get; set; }
-        public List<AttachedProduct> AttachedProducts { get; set; }
-        public List<ProductPhoto> ProductPhotos { get; set; }
+        public List<ProductSale> ProductSales { get; set; } = new List<ProductSale>();
+        public List<AttachedProduct> AttachedProducts { get; set; } = new List<AttachedProduct>();
+        public List<ProductPhoto> ProductPhotos { get; set; } = new List<ProductPhoto>();
     }
 }

@@ -11,6 +11,6 @@ namespace WPFSmetaninProject.Data.Models
         public int Id{ get; set; }
         public string Title { get; set; }
         public string Color { get; set; }
-        public List<TagOfClient> TagOfClients { get; set; }
+        public List<TagOfClient> TagOfClients { get; set; } = new List<TagOfClient>();
     }
 }

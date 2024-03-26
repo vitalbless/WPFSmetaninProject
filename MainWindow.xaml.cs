@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFSmetaninProject.Data.Context;
 
 namespace WPFSmetaninProject
 {
@@ -23,6 +24,7 @@ namespace WPFSmetaninProject
         public MainWindow()
         {
             InitializeComponent();
+            ApplicationContext db = new ApplicationContext();
         }
     }
 }
