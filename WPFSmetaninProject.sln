@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSmetaninProject", "WPFSmetaninProject.csproj", "{CDF7422B-3600-4EA5-94A7-CF4159736A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF7422B-3600-4EA5-94A7-CF4159736A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF7422B-3600-4EA5-94A7-CF4159736A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF7422B-3600-4EA5-94A7-CF4159736A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF7422B-3600-4EA5-94A7-CF4159736A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2064E5-9D11-4835-8C76-F01ED04B5A6E}
+	EndGlobalSection
+EndGlobal

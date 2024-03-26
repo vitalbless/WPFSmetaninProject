@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Context\" />
+    <Folder Include="Data\Core\" />
+    <Folder Include="Data\Models\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="Data\ViewModels\" />
+    <Folder Include="Pages\" />
+    <Folder Include="Resource\" />
+  </ItemGroup>
+
+</Project>
