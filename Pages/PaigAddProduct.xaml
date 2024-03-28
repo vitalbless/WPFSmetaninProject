@@ -9,6 +9,35 @@
       Title="PaigAddProduct">
 
     <Grid>
-        
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Введите название:" Style="{StaticResource mainLbl}"/>
+                <TextBox x:Name="txtbTitle" Style="{StaticResource mainTxt}"></TextBox>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal">
+                <Label Content="Введите цену:" Style="{StaticResource mainLbl}"/>
+                <TextBox x:Name="txtbCost" Style="{StaticResource mainTxt}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Введите описание:" Style="{StaticResource mainLbl}"/>
+                <TextBox x:Name="txtbDescription" Style="{StaticResource mainTxt}"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Фотография товара:" Style="{StaticResource mainLbl}"/>
+                <TextBox x:Name="txtbImagePath" Style="{StaticResource mainTxt}" Width="150"></TextBox>
+                <Button  x:Name="btnAddImage" Content="+" Style="{StaticResource mainBtn}" Width="40"  ></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Выберите производителя:" Style="{StaticResource mainLbl}"/>
+                <ComboBox x:Name="cmbxProductManufacturer" Style="{StaticResource mainCmbx}"></ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <RadioButton x:Name="RbIsActive" Content="Доступен" IsChecked="True" Style="{StaticResource mainRbtn}"></RadioButton>
+                <RadioButton x:Name="RbIsNotActive" Content="Доступен" IsChecked="False" Style="{StaticResource mainRbtn}"></RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnSave" Content="Сохранить" Style="{StaticResource mainBtn}"></Button>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Page>
