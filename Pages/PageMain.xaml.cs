@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFSmetaninProject.Data;
 
 namespace WPFSmetaninProject.Pages
 {
@@ -37,12 +38,12 @@ namespace WPFSmetaninProject.Pages
 
         private void btnProduct_Click(object sender, RoutedEventArgs e)
         {
-
+            SuppObj.mainFrame.Navigate(new PageProduct());
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-
+            SuppObj.mainFrame.Navigate(new PaigAddProduct());
         }
 
         private void btnStuff_Click(object sender, RoutedEventArgs e)

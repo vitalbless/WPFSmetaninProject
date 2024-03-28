@@ -12,7 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFSmetaninProject.Data;
 using WPFSmetaninProject.Data.Context;
+using WPFSmetaninProject.Pages;
 
 namespace WPFSmetaninProject
 {
@@ -26,6 +28,9 @@ namespace WPFSmetaninProject
         {
             InitializeComponent();
             db = new ApplicationContext();
+            SuppObj.mainFrame = MainFrame;
+            SuppObj.statusBarText = StatusOperation;
+            SuppObj.mainFrame.Navigate(new PageMain());
         }
 
         private void btnFAQ_Click(object sender, RoutedEventArgs e)
@@ -35,7 +40,15 @@ namespace WPFSmetaninProject
 
         private void btnBack_Click(object sender, RoutedEventArgs e)
         {
-
+            if (!SuppObj.mainFrame.CanGoBack)
+            {
+                SuppObj.statusBarText.Text = "Вы уже на главной странице";
+            }
+            else
+            {
+                SuppObj.mainFrame.GoBack();
+                SuppObj.statusBarText.Text = "";
+            }
         }
     }
 }
