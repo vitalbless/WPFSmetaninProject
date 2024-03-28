@@ -24,8 +24,8 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <Label Content="Фотография товара:" Style="{StaticResource mainLbl}"/>
-                <TextBox x:Name="txtbImagePath" Style="{StaticResource mainTxt}" Width="150"></TextBox>
-                <Button  x:Name="btnAddImage" Content="+" Style="{StaticResource mainBtn}" Width="40"  ></Button>
+                <TextBox x:Name="txtbImagePath" Style="{StaticResource mainTxt}" Width="159"></TextBox>
+                <Button  x:Name="btnAddImage" Content="+" Style="{StaticResource mainBtn}" Width="40" Height="35"  ></Button>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <Label Content="Выберите производителя:" Style="{StaticResource mainLbl}"/>
