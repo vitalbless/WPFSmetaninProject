@@ -24,5 +24,15 @@ namespace WPFSmetaninProject.Pages
         {
             InitializeComponent();
         }
+
+        private void btnEdit_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnSaleHistory_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

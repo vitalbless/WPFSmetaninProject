@@ -9,6 +9,31 @@
       Title="PageProduct">
 
     <Grid>
-        
+    <ScrollViewer>
+            <StackPanel Orientation="Vertical">
+            <TextBox x:Name="TxtSearch" Style="{StaticResource mainTxt}" Width="650"></TextBox>
+            <ListBox x:Name="lBoxProduct" Width="650" Background="Transparent" BorderBrush="Transparent" >
+                <ListBox.ItemTemplate >
+                    <DataTemplate> 
+                        <ListBoxItem  BorderBrush="Black" Background="White" Width="600">
+                            <StackPanel Orientation="Vertical">
+                                <TextBlock Text="" Name="txtbProductPath" Style="{StaticResource mainTxtb }"></TextBlock>
+                                <Image Source="{Binding MainImagePath}" Width="150" HorizontalAlignment="Center"/>
+                                <TextBlock Text="{Binding Title}" Style="{StaticResource mainTxtb}"></TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <TextBlock Text="{Binding Cost}"  Style="{StaticResource mainTxtb}"></TextBlock>
+                                    <TextBlock Text=" рублей"  Style="{StaticResource mainTxtb}"></TextBlock>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <Button x:Name="btnEdit"  Content="Редактировать" Click="btnEdit_Click"  Style="{StaticResource mainBtn}"></Button>
+                                    <Button x:Name="btnSaleHistory"   Content="История продаж" Click="btnSaleHistory_Click" Style="{StaticResource mainBtn}"></Button>
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </ScrollViewer>
     </Grid>
 </Page>
