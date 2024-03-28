@@ -7,7 +7,39 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Pages\PageEditProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PageMain.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PageProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PageSaleHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PaigAddProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PageEditProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PageMain.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PageProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PageSaleHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PaigAddProduct.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

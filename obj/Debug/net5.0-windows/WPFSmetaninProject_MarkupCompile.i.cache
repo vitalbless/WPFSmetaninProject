@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\Student\source\repos\WPFSmetaninProject\App.xaml
-11407045341
+6-393588610
 
-19905803189
+25-1874893983
 218133827505
-MainWindow.xaml;
+MainWindow.xaml;Pages\PageEditProduct.xaml;Pages\PageMain.xaml;Pages\PageProduct.xaml;Pages\PageSaleHistory.xaml;Pages\PaigAddProduct.xaml;
 
-False
+True
 

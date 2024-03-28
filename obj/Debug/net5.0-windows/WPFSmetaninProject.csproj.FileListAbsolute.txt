@@ -55,3 +55,16 @@ C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\WPFSme
 C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\ref\WPFSmetaninProject.dll
 C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\WPFSmetaninProject.pdb
 C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\WPFSmetaninProject.genruntimeconfig.cache
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\WPFSmetaninProject.Properties.Resources.resources
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\WPFSmetaninProject.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageEditProduct.g.cs
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageMain.g.cs
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageProduct.g.cs
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageSaleHistory.g.cs
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PaigAddProduct.g.cs
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\App.baml
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageEditProduct.baml
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageMain.baml
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageProduct.baml
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageSaleHistory.baml
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PaigAddProduct.baml

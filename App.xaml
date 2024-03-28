@@ -4,6 +4,14 @@
              xmlns:local="clr-namespace:WPFSmetaninProject"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="mainBtn" TargetType="Button" >
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Background" Value="#7640b3"/>
+            <Setter Property="Foreground" Value="#fff"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Setter Property="FontSize" Value="17"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
     </Application.Resources>
 </Application>

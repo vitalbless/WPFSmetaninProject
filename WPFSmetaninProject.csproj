@@ -7,15 +7,38 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\twitch_logo_icon_188462.png" />
+    <None Remove="Resources\twitch_tile_logo_icon_170382.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Data\Core\" />
     <Folder Include="Data\Repositories\" />
     <Folder Include="Data\ViewModels\" />
-    <Folder Include="Pages\" />
-    <Folder Include="Resource\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\twitch_logo_icon_188462.png" />
+    <Resource Include="Resources\twitch_tile_logo_icon_170382.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>

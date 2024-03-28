@@ -5,8 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFSmetaninProject"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Twitch" Height="650" Width="1000" WindowStartupLocation="CenterScreen" >
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="159*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="192*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Height="70" VerticalAlignment="Center" Background="AliceBlue" Grid.ColumnSpan="2">
+            <Image Source="/Resources/twitch_tile_logo_icon_170382.png" Width="60" Height="60" Margin="40 0 0 0 "/>
+            <Button x:Name="btnBack"   Content="Назад" Margin="450,0,0,0"  Click="btnBack_Click" Width="180" Height="50" Background="#7640b3" Foreground="#fff" FontFamily="Comic Sans MS" FontSize="18"/>
+            <Button x:Name="btnFAQ" Content="FAQ" Margin="40,0,0,0"  Click="btnFAQ_Click" Width="180" Height="50" Background="#7640b3" Foreground="#fff" FontFamily="Comic Sans MS" FontSize="18"/>
+
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Margin="250,14,0,0" Grid.Row="1" HorizontalAlignment="Left">
+            <Image Width="300" Margin="100 90 0 0 " Opacity="0.3" Source="/Resources/twitch_logo_icon_188462.png"/>
+        </StackPanel>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2" Margin="0,50,0,0" Grid.RowSpan="2"/>
+        <StatusBar  Name="Sbar" VerticalAlignment="Bottom" Grid.Row="1" Background="AliceBlue" Grid.ColumnSpan="2">
+            <StatusBarItem>
+                <TextBlock Name="StatusOperation"></TextBlock>
+            </StatusBarItem>
+        </StatusBar>
 
     </Grid>
 </Window>

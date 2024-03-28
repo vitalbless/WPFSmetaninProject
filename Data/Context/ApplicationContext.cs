@@ -1,15 +1,10 @@
 ﻿using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using WPFSmetaninProject.Data.Models;
 
 namespace WPFSmetaninProject.Data.Context
 {
-    class ApplicationContext:DbContext
+    class ApplicationContext : DbContext
     {
         public ApplicationContext()
         {
@@ -31,7 +26,7 @@ namespace WPFSmetaninProject.Data.Context
                 UserID = "ivan123",
                 Password = "root",
                 InitialCatalog = "ProductSM"
-            }.ConnectionString;                                      
+            }.ConnectionString;
         }
         public DbSet<AttachedProduct> AttachedProducts { get; set; }
         public DbSet<Client> Client { get; set; }
@@ -43,10 +38,8 @@ namespace WPFSmetaninProject.Data.Context
         public DbSet<ProductPhoto> ProductPhotos { get; set; }
         public DbSet<ProductSale> ProductSales { get; set; }
         public DbSet<Service> Services { get; set; }
-        public DbSet<ServicePhoto> ServicePhotos{ get; set; }
+        public DbSet<ServicePhoto> ServicePhotos { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<TagOfClient> TagOfClients { get; set; }
-
-
     }
 }

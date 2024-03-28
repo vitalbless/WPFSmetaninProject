@@ -12,30 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WPFSmetaninProject.Data.Context;
 
-namespace WPFSmetaninProject
+namespace WPFSmetaninProject.Pages
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Логика взаимодействия для PageSaleHistory.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class PageSaleHistory : Page
     {
-        ApplicationContext db;
-        public MainWindow()
+        public PageSaleHistory()
         {
             InitializeComponent();
-            db = new ApplicationContext();
-        }
-
-        private void btnFAQ_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void btnBack_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }
