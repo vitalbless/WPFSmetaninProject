@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFSmetaninProject.Data.Context;
 
 namespace WPFSmetaninProject.Pages
 {
@@ -20,9 +21,13 @@ namespace WPFSmetaninProject.Pages
     /// </summary>
     public partial class PageProduct : Page
     {
+        ApplicationContext db;
         public PageProduct()
         {
             InitializeComponent();
+            db= new ApplicationContext();
+            
+
         }
 
         private void btnEdit_Click(object sender, RoutedEventArgs e)
@@ -33,6 +38,16 @@ namespace WPFSmetaninProject.Pages
         private void btnSaleHistory_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void TxtSearch_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            
+        }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            lBoxProduct.ItemsSource = db.Products.ToList();
         }
     }
 }

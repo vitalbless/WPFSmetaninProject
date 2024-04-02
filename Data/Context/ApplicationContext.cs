@@ -25,7 +25,7 @@ namespace WPFSmetaninProject.Data.Context
                 DataSource = "192.168.1.100",
                 UserID = "ivan123",
                 Password = "root",
-                InitialCatalog = "ProductSM"
+                InitialCatalog = "ProductSME"
             }.ConnectionString;
         }
         public DbSet<AttachedProduct> AttachedProducts { get; set; }

@@ -42,12 +42,12 @@ namespace WPFSmetaninProject
         {
             if (!SuppObj.mainFrame.CanGoBack)
             {
-                SuppObj.statusBarText.Text = "Вы уже на главной странице";
+               SupplyMethods.SetMesssageToStatusBar( "Вы уже на главной странице");
             }
             else
             {
                 SuppObj.mainFrame.GoBack();
-                SuppObj.statusBarText.Text = "";
+
             }
         }
     }

@@ -6,12 +6,13 @@
       xmlns:local="clr-namespace:WPFSmetaninProject.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="PageProduct">
+      Title="PageProduct"
+      Loaded="Page_Loaded">
 
     <Grid>
     <ScrollViewer>
             <StackPanel Orientation="Vertical">
-            <TextBox x:Name="TxtSearch" Style="{StaticResource mainTxt}" Width="650"></TextBox>
+            <TextBox x:Name="TxtSearch" Style="{StaticResource mainTxt}" Width="650" TextChanged="TxtSearch_TextChanged"></TextBox>
             <ListBox x:Name="lBoxProduct" Width="650" Background="Transparent" BorderBrush="Transparent" >
                 <ListBox.ItemTemplate >
                     <DataTemplate> 

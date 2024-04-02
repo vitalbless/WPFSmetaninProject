@@ -33,10 +33,10 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <RadioButton x:Name="RbIsActive" Content="Доступен" IsChecked="True" Style="{StaticResource mainRbtn}"></RadioButton>
-                <RadioButton x:Name="RbIsNotActive" Content="Доступен" IsChecked="False" Style="{StaticResource mainRbtn}"></RadioButton>
+                <RadioButton x:Name="RbIsNotActive" Content="Не доступен" IsChecked="False" Style="{StaticResource mainRbtn}"></RadioButton>
             </StackPanel>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                <Button x:Name="btnSave" Content="Сохранить" Style="{StaticResource mainBtn}"></Button>
+                <Button x:Name="btnSave" Content="Сохранить" Style="{StaticResource mainBtn}" Click="btnSave_Click"></Button>
             </StackPanel>
         </StackPanel>
     </Grid>

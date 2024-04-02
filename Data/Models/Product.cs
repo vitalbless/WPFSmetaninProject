@@ -8,9 +8,30 @@ namespace WPFSmetaninProject.Data.Models
 {
     class Product
     {
+        public Product(string title, int cost, string description, string mainImagePath, bool isActive, int manufacturerId)
+        {
+            Title = title;
+            Cost = cost;
+            Description = description;
+            MainImagePath = mainImagePath;
+            IsActive = isActive;
+            ManufacturerId = manufacturerId;
+        }
+
+        public Product(int id, string title, int cost, string description, string mainImagePath, bool isActive, int manufacturerId)
+        {
+            Id = id;
+            Title = title;
+            Cost = cost;
+            Description = description;
+            MainImagePath = mainImagePath;
+            IsActive = isActive;
+            ManufacturerId = manufacturerId;
+        }
+
         public int Id { get; set; }
         public string Title { get; set; }
-        public string Cost { get; set; }
+        public int Cost { get; set; }
         public string Description { get; set; }
         public string MainImagePath { get; set; }
         public bool IsActive { get; set; }

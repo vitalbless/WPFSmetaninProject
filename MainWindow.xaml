@@ -25,7 +25,7 @@
             <Image Width="300" Margin="100 90 0 0 " Opacity="0.3" Source="/Resources/twitch_logo_icon_188462.png"/>
         </StackPanel>
         <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2" Margin="0,50,0,0" Grid.RowSpan="2"/>
-        <StatusBar  Name="Sbar" VerticalAlignment="Bottom" Grid.Row="1" Background="AliceBlue" Grid.ColumnSpan="2">
+        <StatusBar   Name="Sbar" VerticalAlignment="Bottom" Grid.Row="1" Background="AliceBlue" Grid.ColumnSpan="2">
             <StatusBarItem>
                 <TextBlock Name="StatusOperation"></TextBlock>
             </StatusBarItem>
