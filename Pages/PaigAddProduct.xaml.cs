@@ -30,30 +30,13 @@ namespace WPFSmetaninProject.Pages
         {
             db = new ApplicationContext();
             InitializeComponent();
-            cmbxProductManufacturer.SelectedValuePath = "Id";
-            cmbxProductManufacturer.DisplayMemberPath = "Name";
-            cmbxProductManufacturer.ItemsSource = db.Manufacturers.ToList();
-            
-        }        
+
+            cmbxProductManufacturer.ItemsSource = db.Manufacturers.ToList();            
+        }
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                db.Products.Add(new Product(txtbTitle.Text, Convert.ToInt32(txtbCost.Text), txtbDescription.Text, txtbImagePath.Text, 
-                RbIsActive.IsChecked == true, Convert.ToInt32(cmbxProductManufacturer.SelectedValue)));
-                db.SaveChanges();
-                txtbTitle.Text = string.Empty;
-                txtbCost.Text = string.Empty;
-                txtbDescription.Text = string.Empty;
-                cmbxProductManufacturer.SelectedIndex = default;
-                txtbImagePath.Text = string.Empty;
-                SupplyMethods.SetMesssageToStatusBar("Данные успешно добавлены");
-            }
-            catch(Exception ex)
-            {
-                SupplyMethods.SetMesssageToStatusBar($"Ошибка добавления данных. {ex.Message}");
-            }
-        }   
+
+        }
     }
 }

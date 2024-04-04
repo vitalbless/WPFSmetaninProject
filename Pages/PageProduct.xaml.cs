@@ -26,8 +26,6 @@ namespace WPFSmetaninProject.Pages
         {
             InitializeComponent();
             db= new ApplicationContext();
-            
-
         }
 
         private void btnEdit_Click(object sender, RoutedEventArgs e)

@@ -68,3 +68,4 @@ C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\
 C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageProduct.baml
 C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PageSaleHistory.baml
 C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\Pages\PaigAddProduct.baml
+C:\Users\Student\source\repos\WPFSmetaninProject\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
