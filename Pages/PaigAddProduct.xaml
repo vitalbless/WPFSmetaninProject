@@ -15,19 +15,23 @@
         <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
             <StackPanel Orientation="Horizontal">
                 <Label Content="Введите название:" Style="{StaticResource mainLbl}"/>
-                <TextBox x:Name="txtbTitle" Style="{StaticResource mainTxt}" Text="{Binding Title}"></TextBox>
+                <TextBox x:Name="txtbTitle" Style="{StaticResource mainTxt}" Text="{Binding Title,ValidatesOnExceptions=True,UpdateSourceTrigger=PropertyChanged}"
+                     Validation.ErrorTemplate="{StaticResource errorTemplate}"></TextBox>
             </StackPanel>
             <StackPanel  Orientation="Horizontal">
                 <Label Content="Введите цену:" Style="{StaticResource mainLbl}"/>
-                <TextBox x:Name="txtbCost" Style="{StaticResource mainTxt}" Text="{Binding Cost}"></TextBox>
+                <TextBox x:Name="txtbCost" Style="{StaticResource mainTxt}" Text="{Binding Cost ,ValidatesOnExceptions=True,UpdateSourceTrigger=PropertyChanged}"
+                     Validation.ErrorTemplate="{StaticResource errorTemplate}"></TextBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <Label Content="Введите описание:" Style="{StaticResource mainLbl}"/>
-                <TextBox x:Name="txtbDescription" Style="{StaticResource mainTxt}" Text="{Binding Description}"></TextBox>
+                <TextBox x:Name="txtbDescription" Style="{StaticResource mainTxt}" Text="{Binding Description ,ValidatesOnExceptions=True,UpdateSourceTrigger=PropertyChanged}"
+                     Validation.ErrorTemplate="{StaticResource errorTemplate}"></TextBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <Label Content="Фотография товара:" Style="{StaticResource mainLbl}"/>
-                <TextBox x:Name="txtbImagePath" Style="{StaticResource mainTxt}" Text="{Binding MainImagePath}" Width="159"></TextBox>
+                <TextBox x:Name="txtbImagePath" Style="{StaticResource mainTxt}" Text="{Binding MainImagePath ,ValidatesOnExceptions=True,UpdateSourceTrigger=PropertyChanged}"
+                     Validation.ErrorTemplate="{StaticResource errorTemplate}" Width="159"></TextBox>
                 <Button  x:Name="btnAddImage" Content="+" Style="{StaticResource mainBtn}" Width="40" Height="35"  ></Button>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
