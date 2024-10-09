@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WPFSmetaninProject.Data.Models
 {
-    class Product
+    public class Product
     {
        
 

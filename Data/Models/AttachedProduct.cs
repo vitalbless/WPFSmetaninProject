@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WPFSmetaninProject.Data.Models
 {
-    class AttachedProduct
+    public class AttachedProduct
     {
         public int Id { get; set; }
         public int MainProductId { get; set; }

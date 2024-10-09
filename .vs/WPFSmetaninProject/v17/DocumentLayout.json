@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\suppobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\suppobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\supplymethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\supplymethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\pages\\paigaddproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:pages\\paigaddproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\pages\\pageproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:pages\\pageproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\pages\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:pages\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\pages\\pagesalehistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:pages\\pagesalehistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\productsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\productsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\attachedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\attachedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\tagofclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\tagofclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\servicephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\servicephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\documentbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\documentbyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\context\\connecttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\context\\connecttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\services\\getfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:services\\getfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\wpfsmetaninproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:wpfsmetaninproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\viewmodels\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\viewmodels\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\data\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:data\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|c:\\users\\dictator\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\wpfsmetaninproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7422B-3600-4EA5-94A7-CF4159736A9A}|WPFSmetaninProject.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaigAddProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PaigAddProduct.xaml",
+              "RelativeDocumentMoniker": "Pages\\PaigAddProduct.xaml",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PaigAddProduct.xaml",
+              "RelativeToolTip": "Pages\\PaigAddProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T06:49:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicePhoto.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ServicePhoto.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ServicePhoto.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ServicePhoto.cs",
+              "RelativeToolTip": "Data\\Models\\ServicePhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Tag.cs",
+              "RelativeToolTip": "Data\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:38.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Service.cs",
+              "RelativeToolTip": "Data\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:36.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSale.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ProductSale.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ProductSale.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ProductSale.cs",
+              "RelativeToolTip": "Data\\Models\\ProductSale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "Data\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:24:19.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\Context\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:43:07.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PageProduct.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageProduct.xaml",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PageProduct.xaml",
+              "RelativeToolTip": "Pages\\PageProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T16:51:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T16:26:01.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplyMethods.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\SupplyMethods.cs",
+              "RelativeDocumentMoniker": "Data\\SupplyMethods.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\SupplyMethods.cs",
+              "RelativeToolTip": "Data\\SupplyMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:42:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuppObj.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\SuppObj.cs",
+              "RelativeDocumentMoniker": "Data\\SuppObj.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\SuppObj.cs",
+              "RelativeToolTip": "Data\\SuppObj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:51:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentByService.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\DocumentByService.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\DocumentByService.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\DocumentByService.cs",
+              "RelativeToolTip": "Data\\Models\\DocumentByService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:24:47.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageMain.xaml",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PageMain.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageMain.xaml",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PageMain.xaml",
+              "RelativeToolTip": "Pages\\PageMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T16:41:20.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T07:18:10.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TagOfClient.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\TagOfClient.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\TagOfClient.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\TagOfClient.cs",
+              "RelativeToolTip": "Data\\Models\\TagOfClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:25:21.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageSaleHistory.xaml",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PageSaleHistory.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageSaleHistory.xaml",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Pages\\PageSaleHistory.xaml",
+              "RelativeToolTip": "Pages\\PageSaleHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T16:42:18.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ProductPhoto.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ProductPhoto.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ProductPhoto.cs",
+              "RelativeToolTip": "Data\\Models\\ProductPhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:33.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "Data\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:07.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttachedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\AttachedProduct.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\AttachedProduct.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\AttachedProduct.cs",
+              "RelativeToolTip": "Data\\Models\\AttachedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:43:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ClientService.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ClientService.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\ClientService.cs",
+              "RelativeToolTip": "Data\\Models\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:24.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Gender.cs",
+              "RelativeToolTip": "Data\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:24:44.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "Data\\Models\\Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:24:41.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConnectToDb.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Context\\ConnectToDb.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\ConnectToDb.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Context\\ConnectToDb.cs",
+              "RelativeToolTip": "Data\\Context\\ConnectToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:29:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WPFSmetaninProject",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\WPFSmetaninProject.csproj",
+              "RelativeDocumentMoniker": "WPFSmetaninProject.csproj",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\WPFSmetaninProject.csproj",
+              "RelativeToolTip": "WPFSmetaninProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T07:21:56.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Data\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:16:57.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetFileService.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Services\\GetFileService.cs",
+              "RelativeDocumentMoniker": "Services\\GetFileService.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Services\\GetFileService.cs",
+              "RelativeToolTip": "Services\\GetFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:36:44.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Data\\Core\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:42:48.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T07:22:05.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:36:55.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\ViewModels\\AddProductViewModel.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\AddProductViewModel.cs",
+              "ToolTip": "C:\\Users\\dictator\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\WPFSmetaninProject\\Data\\ViewModels\\AddProductViewModel.cs",
+              "RelativeToolTip": "Data\\ViewModels\\AddProductViewModel.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:42:38.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

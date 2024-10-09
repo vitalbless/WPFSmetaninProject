@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WPFSmetaninProject.Data.Models
 {
-    class Service
+    public class Service
     {
         public int Id { get; set; }
         public string Title { get; set; }

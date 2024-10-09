@@ -42,10 +42,5 @@ namespace WPFSmetaninProject.Pages
         {
             
         }
-
-        private void Page_Loaded(object sender, RoutedEventArgs e)
-        {
-            lBoxProduct.ItemsSource = db.Products.ToList();
-        }
     }
 }

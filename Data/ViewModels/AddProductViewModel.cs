@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
@@ -7,12 +8,13 @@ using System.Runtime.CompilerServices;
 using WPFSmetaninProject.Data.Context;
 using WPFSmetaninProject.Data.Core;
 using WPFSmetaninProject.Data.Models;
+using WPFSmetaninProject.Services;
 
 namespace WPFSmetaninProject.Data.ViewModels
 {
-    class AddProductViewModel:INotifyPropertyChanged
+    class AddProductViewModel : INotifyPropertyChanged
     {
-        private bool check =true;
+        private bool check = true;
         ApplicationContext db = new ApplicationContext();
         private string _title;
         [Required(ErrorMessage = "Поле не должно быть пустым")]
@@ -20,7 +22,7 @@ namespace WPFSmetaninProject.Data.ViewModels
         public string Title
         {
             get { return _title; }
-            set { ValidateProperty(value, "Title") ; _title = value; OnPropertyChanged(); }
+            set { ValidateProperty(value, "Title"); _title = value; OnPropertyChanged(); }
         }
 
         private void ValidateProperty<T>(T value, string name)
@@ -33,17 +35,17 @@ namespace WPFSmetaninProject.Data.ViewModels
                 });
             }
         }
-        
+
         private int _cost;
         [Required]
-        [Range(100,100000, ErrorMessage = "Минимальная цена : 100")]
+        [Range(100, 100000, ErrorMessage = "Минимальная цена : 100")]
         public int Cost
         {
             get { return _cost; }
-            set { ValidateProperty(value, "Cost");  _cost = value; OnPropertyChanged(); }
+            set { ValidateProperty(value, "Cost"); _cost = value; OnPropertyChanged(); }
         }
         private string _description;
-       
+
         [StringLength(50, MinimumLength = 5, ErrorMessage = "Имя не должно содержать менее 5 символов")]
         public string Description
         {
@@ -62,7 +64,7 @@ namespace WPFSmetaninProject.Data.ViewModels
         public bool IsActive
         {
             get { return _isActive; }
-            set {  _isActive = value; OnPropertyChanged(); }
+            set { _isActive = value; OnPropertyChanged(); }
         }
         private int _manufacturerId;
 
@@ -73,14 +75,11 @@ namespace WPFSmetaninProject.Data.ViewModels
 
         }
 
-        
-
         public IEnumerable<Manufacturer> Manufacturers
         {
             get { return ConnectToDb.db.Manufacturers.ToList(); ; }
-           
-        }
 
+        }
 
         private RelayCommand addProduct;
 
@@ -97,7 +96,6 @@ namespace WPFSmetaninProject.Data.ViewModels
             {
                 return addProduct ??
                   (addProduct = new RelayCommand(async obj =>
-                 
                   {
                       try
                       {
@@ -112,9 +110,10 @@ namespace WPFSmetaninProject.Data.ViewModels
                           };
                           if (product != null)
                           {
-                              
+
                               ConnectToDb.db.Products.Add(product);
                               ConnectToDb.db.SaveChanges();
+                              GetFileService.CopyImageToProject();
                               SupplyMethods.SetMesssageToStatusBar($"Модель телефона {Title} успешно добавлена!");
                               check = false;
                               this.Title = string.Empty;
@@ -126,14 +125,14 @@ namespace WPFSmetaninProject.Data.ViewModels
                               check = true;
                           }
                       }
-                      catch(Exception ex)
+                      catch (Exception ex)
                       {
                           SupplyMethods.SetMesssageToStatusBar($"Возникла ошибка при добавлении данных {ex.Message}");
                       }
-                      
                   }));
             }
-        }
 
+        }
+        public RelayCommand GetFilePath => new RelayCommand(obj => MainImagePath = GetFileService.GetImagePath());
     }
 }

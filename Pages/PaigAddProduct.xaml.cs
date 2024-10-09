@@ -31,12 +31,16 @@ namespace WPFSmetaninProject.Pages
             db = new ApplicationContext();
             InitializeComponent();
 
-            cmbxProductManufacturer.ItemsSource = db.Manufacturers.ToList();            
+            cmbxProductManufacturer.ItemsSource = db.Manufacturers.ToList();
         }
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void btnAddImage_Click(object sender, RoutedEventArgs e)
+        {
         }
     }
 }

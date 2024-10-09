@@ -3,17 +3,18 @@
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-      xmlns:local="clr-namespace:WPFSmetaninProject.Pages"
+      xmlns:local="clr-namespace:WPFSmetaninProject.Pages" xmlns:local1="clr-namespace:WPFSmetaninProject.Data.ViewModels"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="PageProduct"
-      Loaded="Page_Loaded">
-
+      Title="PageProduct">
+    <Page.DataContext>
+        <local1:ProductViewModel/>
+    </Page.DataContext>
     <Grid>
     <ScrollViewer>
             <StackPanel Orientation="Vertical">
-            <TextBox x:Name="TxtSearch" Style="{StaticResource mainTxt}" Width="650" TextChanged="TxtSearch_TextChanged"></TextBox>
-            <ListBox x:Name="lBoxProduct" Width="650" Background="Transparent" BorderBrush="Transparent" >
+                <TextBox Text="{Binding TxtSearch,UpdateSourceTrigger=PropertyChanged}"  x:Name="TxtSearch" Style="{StaticResource mainTxt}" Width="650" ></TextBox>
+            <ListBox x:Name="lBoxProduct" Width="650" Background="Transparent" BorderBrush="Transparent" ItemsSource="{Binding Products}">
                 <ListBox.ItemTemplate >
                     <DataTemplate> 
                         <ListBoxItem  BorderBrush="Black" Background="White" Width="600">
@@ -21,7 +22,8 @@
                                 <TextBlock Text="" Name="txtbProductPath" Style="{StaticResource mainTxtb }"></TextBlock>
                                 <Image Source="{Binding MainImagePath}" Width="150" HorizontalAlignment="Center"/>
                                 <TextBlock Text="{Binding Title}" Style="{StaticResource mainTxtb}"></TextBlock>
-                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                <TextBlock Text="{Binding Description}" Style="{StaticResource mainTxtb}"></TextBlock>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
                                     <TextBlock Text="{Binding Cost}"  Style="{StaticResource mainTxtb}"></TextBlock>
                                     <TextBlock Text=" рублей"  Style="{StaticResource mainTxtb}"></TextBlock>
                                 </StackPanel>

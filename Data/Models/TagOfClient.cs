@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WPFSmetaninProject.Data.Models
 {
-    class TagOfClient
+    public class TagOfClient
     {
         public int Id { get; set; }
         public int ClientId { get; set; }
